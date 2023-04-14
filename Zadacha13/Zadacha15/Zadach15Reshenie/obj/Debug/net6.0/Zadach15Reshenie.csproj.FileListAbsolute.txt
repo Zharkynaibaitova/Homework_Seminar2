@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\bin\Debug\net6.0\Zadach15Reshenie.exe
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\bin\Debug\net6.0\Zadach15Reshenie.deps.json
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\bin\Debug\net6.0\Zadach15Reshenie.runtimeconfig.json
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\bin\Debug\net6.0\Zadach15Reshenie.dll
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\bin\Debug\net6.0\Zadach15Reshenie.pdb
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\obj\Debug\net6.0\Zadach15Reshenie.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\obj\Debug\net6.0\Zadach15Reshenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\obj\Debug\net6.0\Zadach15Reshenie.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\obj\Debug\net6.0\Zadach15Reshenie.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\obj\Debug\net6.0\Zadach15Reshenie.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\obj\Debug\net6.0\Zadach15Reshenie.dll
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\obj\Debug\net6.0\refint\Zadach15Reshenie.dll
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\obj\Debug\net6.0\Zadach15Reshenie.pdb
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\obj\Debug\net6.0\Zadach15Reshenie.genruntimeconfig.cache
+C:\Users\user\Desktop\Homework_Sem2\Homework_Seminar2\Zadacha13\Zadacha15\Zadach15Reshenie\obj\Debug\net6.0\ref\Zadach15Reshenie.dll
